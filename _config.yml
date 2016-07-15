@@ -3,19 +3,19 @@ highlighter: pygments
 permalink: /posts/:title.html
 excerpt_separator: "<!-- more -->"
 
-github: panxw
-author: "潘学文"
-email: winfirm#163.com
-name: "潘学文个人博客"
-url: http://www.panxw.com
-domain: www.panxw.com
+github: emillylearn2016
+author: "Emily"
+email: emilylearn2016@gmail.com
+name: "一只Emily"
+
+
 all_categories: [
-["android", "Android开发","/posts/android.html"], 
+["self-management", "自我管理","/posts/self-managemen.html"], 
 ["program", "软件编程","/posts/program.html"],
-["web", "Web建站","/posts/web.html"], 
-["linux", "Linux相关","/posts/linux.html"],
+["pinbu", "拼布","/posts/拼布.html"], 
+["real-estate", "房地产相关","/posts/real-estate.html"],
 ["read", "读书笔记","/posts/read.html"], 
-["other", "杂记","/posts/other.html"],
+["run&plank", "跑步运动","/posts/run&plank.html"],
 ["about", "关于","/about.html"]
 ]
 
